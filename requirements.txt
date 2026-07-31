@@ -1,0 +1,29 @@
+# Manipulação de Dados
+numpy>=1.22,<2.0.0
+pandas>=2.0.0,<3.0.0
+scikit-learn>=1.0,<1.8.0
+scipy
+
+# Visualização
+seaborn
+matplotlib
+plotly
+
+# Processamento de Imagens
+opencv-python
+scikit-image
+imageio
+networkx
+pillow
+tifffile
+
+# Computação de Alto Desempenho
+numba
+llvmlite
+pyvista
+vtk
+
+# Utilidades
+tqdm
+requests
+joblib
