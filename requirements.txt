@@ -8,8 +8,6 @@ scipy
 seaborn
 matplotlib
 plotly
-boxplot
-pingouin
 
 # Processamento de Imagens
 opencv-python
